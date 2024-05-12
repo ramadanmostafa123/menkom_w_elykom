@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "107821636736",
+    "firebase_url": "https://menkom-w-elykom-default-rtdb.firebaseio.com",
+    "project_id": "menkom-w-elykom",
+    "storage_bucket": "menkom-w-elykom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107821636736:android:5affa731f41f2e5d545a65",
+        "android_client_info": {
+          "package_name": "com.example.test_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy1dgqfUSzpT2r1d7Ng92jclhLClR9gSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
